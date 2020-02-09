@@ -20,3 +20,18 @@ class Sorting:
                     min = j
             if i != min: arr[i], arr[min] = arr[min], arr[i]
         return arr
+    
+    def insertion_sort(self, arr):
+        n = len(arr)
+        for i in range(1,n):
+            hole = i
+            while hole > 0 and arr[hole - 1] > arr[hole]:
+                arr[hole], arr[hole -1] = arr[hole -1], arr[hole]
+                hole -= 1
+        return arr
+
+if __name__ == "__main__":
+    arr = [3,4,2,1,5]
+    sort_obj = Sorting()
+    arr = sort_obj.insertion_sort(arr)
+    print(arr)
