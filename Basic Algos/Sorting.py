@@ -63,23 +63,41 @@ class Sorting:
 
     def quick_sort(self, arr, start, end):
         if start < end:
-            arr, pivot_index = self.__partition(arr, start, end)
-            arr = self.quick_sort(arr, start, pivot_index - 1)
-            arr = self.quick_sort(arr, pivot_index + 1, end)
-        return arr
+            pivot_index = self.__partition(arr, start, end)
+            self.quick_sort(arr, start, pivot_index - 1)
+            self.quick_sort(arr, pivot_index + 1, end)
     
-    def __partition(self, A, start, end):
-        pivot_value = A[end]
+    def __partition(self, arr, start, end):
+        pivot_value = arr[end]
         partition_index = start
         for i in range(start, end):
-            if A[i] <= pivot_value:
-                A[i], A[partition_index] = A[partition_index], A[i]
+            if arr[i] <= pivot_value:
+                arr[i], arr[partition_index] = arr[partition_index], arr[i]
                 partition_index += 1
-        A[end] , A[partition_index] = A[partition_index], A[end] 
-        return A, partition_index
+        arr[end] , arr[partition_index] = arr[partition_index], arr[end] 
+        return partition_index
+    
+    
 
+import time
+import random
 if __name__ == "__main__":
-    arr = [3,2,4,5,1,6,0]
+    n = 100
+    random.seed(1)
+    arr = [random.randint(0,n) for i in range(n)]
     sort_obj = Sorting()
-    arr = sort_obj.quick_sort(arr, 0, len(arr)-1)
-    print(arr)
+    t1 = time.time()
+    sorted_arr = sort_obj.bubble_sort(arr)
+    print("Time taken by bubble sort : %f" % (time.time() - t1))
+    t1 = time.time()
+    sorted_arr = sort_obj.insertion_sort(arr)
+    print("Time taken by insertion sort : %f" % (time.time() - t1))
+    t1 = time.time()
+    sorted_arr = sort_obj.selection_sort(arr)
+    print("Time taken by selection sort : %f" % (time.time() - t1))
+    t1 = time.time()
+    sorted_arr = sort_obj.merge_sort(arr)
+    print("Time taken by merge sort : %f" % (time.time() - t1))
+    t1 = time.time()
+    sort_obj.quick_sort(arr, 0, len(arr) - 1)
+    print("Time taken by quick sort : %f" % (time.time() - t1))
