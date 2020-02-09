@@ -61,8 +61,25 @@ class Sorting:
             k +=1 
         return arr 
 
+    def quick_sort(self, arr, start, end):
+        if start < end:
+            arr, pivot_index = self.__partition(arr, start, end)
+            arr = self.quick_sort(arr, start, pivot_index - 1)
+            arr = self.quick_sort(arr, pivot_index + 1, end)
+        return arr
+    
+    def __partition(self, A, start, end):
+        pivot_value = A[end]
+        partition_index = start
+        for i in range(start, end):
+            if A[i] <= pivot_value:
+                A[i], A[partition_index] = A[partition_index], A[i]
+                partition_index += 1
+        A[end] , A[partition_index] = A[partition_index], A[end] 
+        return A, partition_index
+
 if __name__ == "__main__":
-    arr = [3,4,2,1,5]
+    arr = [3,2,4,5,1,6,0]
     sort_obj = Sorting()
-    arr = sort_obj.merge_sort(arr)
+    arr = sort_obj.quick_sort(arr, 0, len(arr)-1)
     print(arr)
