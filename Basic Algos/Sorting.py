@@ -29,9 +29,40 @@ class Sorting:
                 arr[hole], arr[hole -1] = arr[hole -1], arr[hole]
                 hole -= 1
         return arr
+    
+    def merge_sort(self, arr):
+        n = len(arr)
+        if n < 2: return arr
+        mid = int(n/2)
+        left_arr = [arr[i] for i in range(mid)]
+        right_arr = [arr[i] for i in range(mid, n)]
+        left_arr = self.merge_sort(left_arr)
+        right_arr = self.merge_sort(right_arr)
+        return self.__merge_array(left_arr, right_arr, arr)
+
+    def __merge_array(self, left_arr, right_arr, arr):
+        nl, nr = len(left_arr), len(right_arr)
+        i, j, k = 0, 0, 0
+        while(i < nl and j < nr):
+            if left_arr[i] < right_arr[j]:
+                arr[k] = left_arr[i]
+                i +=1
+            else:
+                arr[k] = right_arr[j]
+                j +=1
+            k +=1
+        while( i < nl):
+            arr[k] = left_arr[i]
+            i += 1
+            k += 1
+        while j < nr:
+            arr[k] = right_arr[j]
+            j +=1
+            k +=1 
+        return arr 
 
 if __name__ == "__main__":
     arr = [3,4,2,1,5]
     sort_obj = Sorting()
-    arr = sort_obj.insertion_sort(arr)
+    arr = sort_obj.merge_sort(arr)
     print(arr)
