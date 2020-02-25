@@ -14,9 +14,11 @@ LeetCode
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/decompress_run_length_encode.py) |Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/find_no_even_numbers_of_digits.py)|Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/subract_product_sum.py)|Easy|
+|1266|[ Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/minimum_time_visiting_all_points.py)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/split_string_in_balanced_strings.py)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/regex_ip_add.py)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/jewels_and_stones.py)|Easy|
+
 
 ### Linked List
 | # | Title | Solution | Difficulty |
