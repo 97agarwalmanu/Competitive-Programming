@@ -24,3 +24,8 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Linked_List/convert_binary_to_integer.py)|Easy|
+
+### Binary Search Tree
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Binary_Search_Tree/range_sum_of_bst.py)|Easy|
