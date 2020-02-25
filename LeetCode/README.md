@@ -20,7 +20,10 @@ LeetCode
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/regex_ip_add.py)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/jewels_and_stones.py)|Easy|
 
-
+### String
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python]((https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/String/to_lower_case.py)|Easy|
 ### Linked List
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
