@@ -40,3 +40,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Binary_Search_Tree/range_sum_of_bst.py)|Easy|
 
+### Math
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Math/rev_int.py)|Easy|
