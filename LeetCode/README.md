@@ -9,6 +9,7 @@ LeetCode
 ### Array
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |[Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/how_many_smaller_than_current_num.py)|Easy|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/count_negative_no_in_sorted_matrix.py)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/no_of_steps.py)|Easy|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)  | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/max_69_num.py)|Easy|
