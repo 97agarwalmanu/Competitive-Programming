@@ -53,3 +53,8 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Math/rev_int.py)|Easy|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Math/binary_gap.py)|Easy|
+
+### Two Pointers
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|7|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Two_Pointers/sq_sorted_array.py)|Easy|
