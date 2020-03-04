@@ -14,6 +14,7 @@ LeetCode
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/no_of_steps.py)|Easy|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)  | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/max_69_num.py)|Easy|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/decompress_run_length_encode.py) |Easy|
+|1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/replace_with_greatest_element_on_right.py)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/find_no_even_numbers_of_digits.py)|Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/subract_product_sum.py)|Easy|
 |1266|[ Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Array/minimum_time_visiting_all_points.py)|Easy|
@@ -33,6 +34,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/String/to_lower_case.py)|Easy|
+
 ### Linked List
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
