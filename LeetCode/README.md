@@ -40,6 +40,7 @@ LeetCode
 ### Binary Search Tree
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Binary_Search_Tree/search_in_bst.py)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Binary_Search_Tree/range_sum_of_bst.py)|Easy|
 
 ### Math
