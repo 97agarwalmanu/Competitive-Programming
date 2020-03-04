@@ -46,3 +46,4 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Math/rev_int.py)|Easy|
+|868|[Binary Gap](https://leetcode.com/problems/binary-gap/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Math/binary_gap.py)|Easy|
