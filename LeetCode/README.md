@@ -38,6 +38,7 @@ LeetCode
 ### Linked List
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Linked_List/add_two_linked_list.py)|Medium|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Linked_List/convert_binary_to_integer.py)|Easy|
 
 ### Binary Search Tree
