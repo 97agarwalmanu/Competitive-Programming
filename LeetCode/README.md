@@ -74,3 +74,8 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Binary_Search/binary_search.py)|Easy|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Binary_Search/peak_mountain_bs.py)|Easy|
+
+### Hash Table
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Hash_Table/n_repeated_element_in_twon.py)|Easy|
