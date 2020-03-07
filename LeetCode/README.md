@@ -40,6 +40,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Linked_List/add_two_linked_list.py)|Medium|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Linked_List/reverse_linked_list.py)|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Linked_List/delete_node_linked_list.py)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Linked_List/middle_linked_list.py)|Easy|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Linked_List/convert_binary_to_integer.py)|Easy|
 
