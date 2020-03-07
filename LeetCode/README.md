@@ -68,3 +68,8 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |7|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Two_Pointers/sq_sorted_array.py)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Two_Pointers/rev_string.py)|Easy|
+
+### Binary Search
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python](https://github.com/97agarwalmanu/Competitive-Programming/blob/master/LeetCode/Algorithms/Binary_Search/peak_mountain_bs.py)|Easy|
